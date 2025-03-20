@@ -1,6 +1,6 @@
 # sleep-disorder-prediction
 
-![](https://images.onlymyhealth.com/imported/images/2021/December/20_Dec_2021/big_sleep.jpg)
+![](https://github.com/Sugumaran-Balasubramaniyan/sleep-disorder-prediction/blob/main/sleep-disorder.jpg)
 
 ## Project Overview
 
@@ -21,13 +21,13 @@ The dataset utilized in this project is the **"Sleep Health and Lifestyle Datase
 ### Key Features
 
 1. **Comprehensive Sleep Metrics**  
-    The dataset includes detailed information on sleep duration, quality of sleep, and other factors influencing sleep patterns.
+   The dataset includes detailed information on sleep duration, quality of sleep, and other factors influencing sleep patterns.
 
 2. **Lifestyle Factors**  
-    Insights into physical activity levels, stress levels, and BMI categories are provided, offering a holistic view of how lifestyle impacts sleep health.
+   Insights into physical activity levels, stress levels, and BMI categories are provided, offering a holistic view of how lifestyle impacts sleep health.
 
 3. **Cardiovascular Health**  
-    Measurements such as blood pressure and heart rate are included, which are critical indicators of overall health and their potential correlation with sleep disorders.
+   Measurements such as blood pressure and heart rate are included, which are critical indicators of overall health and their potential correlation with sleep disorders.
 
 4. **Sleep Disorder Classification**  
     The dataset categorizes individuals into three groups based on the presence or absence of sleep disorders:
